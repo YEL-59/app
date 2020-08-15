@@ -1,0 +1,158 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.sec1{
+  width: 100%;
+  height: 100vh;
+  background-image: url(app.jpg);
+  background-position: center;
+ min-width: 500px;
+  background-repeat: no-repeat;
+}
+.sec1text{
+  position: relative;
+  top: 260px;
+  left: 30px;
+  width: 25%;
+  height: 170px;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  opacity: 0.5;
+}
+.sec1text:hover{
+  opacity: 1;
+}
+.sec1d{
+  position: relative;
+  top: 40px;
+  left: 40px;
+  width: 65%;
+  height: 22px;
+  padding: 8px;
+  background-color:green;
+  color: white;
+  text-align: center;
+}
+
+
+
+
+.sec2{
+  width: 100%;
+  height: 100vh;
+}
+.sec2t{
+  width: 750px;
+  height: 500px;
+  border: 1 px solid goldenrod;
+ 
+  float: left;
+}
+.sec2t>h1{
+font-size: 72px;
+position: relative;
+left: 20px;
+}
+.sec2t>h2{
+  font-size: 35px;
+  color: green;
+  position: relative;
+  left: 20px; 
+}
+.sec2t-1{
+  position: relative;
+  left: 50px;
+  width: 450px;
+  height: 490px;
+  border: 1 px solid goldenrod;
+  background-color: maroon;
+  float: left;
+  margin: 12px;
+  background-image: url(img_app.jpg);
+}
+.sec3{
+  width: 100%;
+  height: 100vh;
+}
+.sec3t-1{
+  position: relative;
+  left: 50px;
+  width: 450px;
+  height: 490px;
+  border: 1 px solid goldenrod;
+  background-color: maroon;
+  float: left;
+  margin: 12px;
+  background-image: url(app5.jpg)
+   
+}
+.sec3t{
+  position: relative;
+  left: 100px;
+  width: 750px;
+  height: 500px;
+  border: 1 px solid goldenrod;
+ 
+  float: left;
+}
+.sec4{
+  width: 100%;
+  height: 130vh;
+  background-color: gray;
+}
+.sec4t{
+  position: relative;
+  top: 90px;
+  left: 280px;
+  width: 150px;
+  height: 150px;
+  
+  float: left;
+  margin: 22px;
+font-size: 42px;
+text-align: center;
+}
+.sec5{
+  width: 100%;
+  height: 100vh;
+}
+.sec5d1{
+  position: relative;
+  top: 100px;
+  left: 200px;
+  width: 30%;
+  height: 550px;
+  border: 1px solid greenyellow;
+  float: left;
+  margin: 12px;
+  opacity: 0.5;
+}
+.sec5d1:hover{
+  opacity: 2;
+}
+
+.spam{
+  padding: 30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.hr{
+  padding: 20px;
+ 
+  color: black;
+  text-align: center;
+  border: none;
+  border-bottom: 1px solid wheat;
+}
+.sec6{
+  position: relative;
+  top: 150px;
+  width: 100%;
+  height: 80px;
+  background-color: gray;
+  color: white;
+  
+}
